@@ -8,6 +8,7 @@ The project covers the implementation of fundamental digital logic
 circuits from **transistor-level schematic design to physical layout,
 verification, parasitic extraction, and post-layout simulation**.
 
+The Documentation pdf can be downloaded for implementation purpose only.
 ---
 
 ## Circuits Implemented
