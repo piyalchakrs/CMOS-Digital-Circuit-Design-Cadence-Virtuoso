@@ -50,3 +50,23 @@ Transistor-Level Schematic
     Post-Layout Simulation
             ↓
    Power & Delay Analysis
+
+
+---
+
+## License / Copyright
+
+© 2026 Piyal Chakraborty. All Rights Reserved.
+
+This repository contains original academic and engineering work,
+including CMOS circuit designs, Cadence Virtuoso implementations,
+layouts, simulation results, and documentation.
+
+The contents may be viewed for educational and reference purposes,
+but may not be copied, redistributed, modified, republished, or
+presented as another person's work without prior written permission.
+
+Any permitted use must include clear attribution to the original
+author.
+
+See the [LICENSE](./LICENSE) file for the full copyright notice.
